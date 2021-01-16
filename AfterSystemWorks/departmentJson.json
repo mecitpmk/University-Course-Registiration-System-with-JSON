@@ -1,0 +1,8 @@
+{
+    "Engineering": {
+        "Freshman": {
+            "id": 1,
+            "maxLimit": 10
+        }
+    }
+}
